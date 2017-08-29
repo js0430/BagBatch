@@ -1,3 +1,7 @@
+##### Version 1.1.5
+ - Updated bagbatch.py to run on Python 3.6.
+ - Updated readme.md to include directions for Windows 10.
+
 ##### Version 1.1.4
  - Updated text prompting for BagIt installation path and the corresponding comments
  - Updated readme
