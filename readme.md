@@ -33,7 +33,7 @@ Updated August 29, 2017
 
 BagIt is a Java-based program that creates archival bags of files following the [BagIt standard](https://tools.ietf.org/html/draft-kunze-bagit-14)  developed by the Library of Congress. It is used to store a directory's master copies, web copies, and metadata, or to verify that files have been transferred from one computer to another properly. By default, BagIt only processes one directory at a time. bagbatch.py was written by the [CarletonArchives](https://github.com/CarletonArchives/BagBatch) to process an entire parent directory with folders ready for bagging on both Mac and Windows. 
 
-Version 1.1.4.1 includes a few changes to make it work on Windows 7 or 10 with Python 3.6. If you are running Python 2.x, or you are using Mac OS, please refer to the [original BagBatch project](https://github.com/CarletonArchives/BagBatch). 
+Version 1.1.5 includes a few changes to make it work on Windows 7 or 10 with Python 3.6. If you are running Python 2.x, or you are using Mac OS, please refer to the [original BagBatch project](https://github.com/CarletonArchives/BagBatch). 
 
 ## Requirements and setup
  - Windows 7 or Windows 10
